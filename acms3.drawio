@@ -22,6 +22,12 @@
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-7" value="Обратиться в рекламное агенство" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="194" y="160" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LtUM50EqSOjnjI1Tk3Z5-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LtUM50EqSOjnjI1Tk3Z5-9" value="Изучить рынок и ЦА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
