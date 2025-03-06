@@ -120,7 +120,7 @@
           <mxGeometry x="240" y="250" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-33" value="Бухгалтер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="30" height="60" as="geometry" />
+          <mxGeometry x="490" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="LtUM50EqSOjnjI1Tk3Z5-33" target="LtUM50EqSOjnjI1Tk3Z5-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
