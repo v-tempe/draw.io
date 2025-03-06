@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="270" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7lS1gMdx0zfag47Wu0-3" value="Кассир" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="30" height="60" as="geometry" />
+          <mxGeometry x="490" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YL7lS1gMdx0zfag47Wu0-4" value="Операционист" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="30" height="60" as="geometry" />
@@ -32,6 +32,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YL7lS1gMdx0zfag47Wu0-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YL7lS1gMdx0zfag47Wu0-1" target="YL7lS1gMdx0zfag47Wu0-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7lS1gMdx0zfag47Wu0-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YL7lS1gMdx0zfag47Wu0-9" target="YL7lS1gMdx0zfag47Wu0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7lS1gMdx0zfag47Wu0-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YL7lS1gMdx0zfag47Wu0-7" target="YL7lS1gMdx0zfag47Wu0-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="430" as="sourcePoint" />
             <mxPoint x="240" y="380" as="targetPoint" />
