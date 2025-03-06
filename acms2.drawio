@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YL7lS1gMdx0zfag47Wu0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;startFill=0;" edge="1" parent="1" source="YL7lS1gMdx0zfag47Wu0-1" target="YL7lS1gMdx0zfag47Wu0-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YL7lS1gMdx0zfag47Wu0-1" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="30" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +24,18 @@
         </mxCell>
         <mxCell id="YL7lS1gMdx0zfag47Wu0-10" value="Пополнить счёт" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YL7lS1gMdx0zfag47Wu0-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YL7lS1gMdx0zfag47Wu0-7" target="YL7lS1gMdx0zfag47Wu0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YL7lS1gMdx0zfag47Wu0-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="YL7lS1gMdx0zfag47Wu0-1" target="YL7lS1gMdx0zfag47Wu0-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="430" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
