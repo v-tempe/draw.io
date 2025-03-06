@@ -80,7 +80,13 @@
           <mxGeometry x="185" y="798" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-24" value="Медиа-партнёр" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="490" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LtUM50EqSOjnjI1Tk3Z5-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="LtUM50EqSOjnjI1Tk3Z5-24" target="LtUM50EqSOjnjI1Tk3Z5-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
