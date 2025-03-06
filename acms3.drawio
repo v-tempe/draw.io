@@ -11,7 +11,7 @@
           <mxGeometry x="250" y="520" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-3" value="Менеджер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="400" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="410" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-4" value="Аналитик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="495" y="310" width="30" height="60" as="geometry" />
@@ -50,10 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-15" value="Организовать рекламную кампанию" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="470" width="230" height="30" as="geometry" />
+          <mxGeometry x="445" y="480" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="LtUM50EqSOjnjI1Tk3Z5-14" target="LtUM50EqSOjnjI1Tk3Z5-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
