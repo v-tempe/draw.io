@@ -55,6 +55,12 @@
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-15" value="Организовать рекламную кампанию" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="625" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LtUM50EqSOjnjI1Tk3Z5-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="LtUM50EqSOjnjI1Tk3Z5-14" target="LtUM50EqSOjnjI1Tk3Z5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
