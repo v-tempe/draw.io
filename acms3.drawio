@@ -11,7 +11,7 @@
           <mxGeometry x="620" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-3" value="Менеджер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="500" width="30" height="60" as="geometry" />
+          <mxGeometry x="620" y="500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LtUM50EqSOjnjI1Tk3Z5-4" value="Аналитик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="220" width="30" height="60" as="geometry" />
