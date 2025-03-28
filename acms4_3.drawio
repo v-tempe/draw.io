@@ -110,8 +110,8 @@
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-34" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="660" as="sourcePoint" />
-            <mxPoint x="190" y="660" as="targetPoint" />
+            <mxPoint x="690" y="650" as="sourcePoint" />
+            <mxPoint x="190" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-42" value="Сообщение об успешной записи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6PU_WZym4Gf-ZEjerz6-34">
