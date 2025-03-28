@@ -103,6 +103,11 @@
             <mxPoint x="590" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AKE7zTqDp7WzXp7mgs42-5" value="&lt;div&gt;3. запросИстории&lt;/div&gt;&lt;div&gt;ПройденныхСеминаров(студент)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Exe_L5LcA4VAhJab5YQy-20">
+          <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Exe_L5LcA4VAhJab5YQy-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Exe_L5LcA4VAhJab5YQy-3" target="Exe_L5LcA4VAhJab5YQy-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="350" as="sourcePoint" />
@@ -113,6 +118,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="410" as="sourcePoint" />
             <mxPoint x="360" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKE7zTqDp7WzXp7mgs42-4" value="&lt;div&gt;2. проверка&lt;/div&gt;&lt;div&gt;Подлинности&lt;/div&gt;&lt;div&gt;Студента()&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Exe_L5LcA4VAhJab5YQy-22">
+          <mxGeometry x="-0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint x="-48" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
