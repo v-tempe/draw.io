@@ -17,7 +17,7 @@
           <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="20" height="290" as="geometry" />
+          <mxGeometry x="170" y="320" width="20" height="350" as="geometry" />
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G6PU_WZym4Gf-ZEjerz6-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="540" width="20" height="50" as="geometry" />
+          <mxGeometry x="690" y="540" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="400" width="20" height="120" as="geometry" />
+          <mxGeometry x="510" y="400" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="20" height="50" as="geometry" />
@@ -67,7 +67,7 @@
           <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="475" width="20" height="50" as="geometry" />
+          <mxGeometry x="860" y="570" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="G6PU_WZym4Gf-ZEjerz6-18" parent="1" target="G6PU_WZym4Gf-ZEjerz6-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,8 +128,19 @@
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-34" value="" style="endArrow=classic;dashed=1;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="570" as="sourcePoint" />
-            <mxPoint x="190" y="570" as="targetPoint" />
+            <mxPoint x="690" y="660" as="sourcePoint" />
+            <mxPoint x="190" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="600" as="sourcePoint" />
+            <mxPoint x="530" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-36" value="&lt;div&gt;установитьЗапись&lt;/div&gt;&lt;div&gt;(врач, день, время)&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="G6PU_WZym4Gf-ZEjerz6-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
