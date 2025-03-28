@@ -11,13 +11,13 @@
           <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-3" value="b: Врач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-4" value=": Система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-5" value=": Расписание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxQvi_ueAJQSM3tB_UAR-2" target="UxQvi_ueAJQSM3tB_UAR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -25,7 +25,7 @@
             <mxPoint x="570" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UxQvi_ueAJQSM3tB_UAR-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxQvi_ueAJQSM3tB_UAR-5" target="UxQvi_ueAJQSM3tB_UAR-1">
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxQvi_ueAJQSM3tB_UAR-5" target="UxQvi_ueAJQSM3tB_UAR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="240" as="sourcePoint" />
             <mxPoint x="520" y="360" as="targetPoint" />
@@ -44,13 +44,13 @@
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="280" as="sourcePoint" />
-            <mxPoint x="620" y="250" as="targetPoint" />
+            <mxPoint x="590" y="380" as="sourcePoint" />
+            <mxPoint x="640" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-17" value="&lt;div&gt;2. выборДня()&lt;/div&gt;&lt;div&gt;3. выборВремени()&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="UxQvi_ueAJQSM3tB_UAR-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5" y="-35" as="offset" />
+            <mxPoint x="35" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxQvi_ueAJQSM3tB_UAR-4" target="UxQvi_ueAJQSM3tB_UAR-1">
