@@ -11,15 +11,15 @@
           <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Exe_L5LcA4VAhJab5YQy-4" value="c: Учебный курс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Exe_L5LcA4VAhJab5YQy-5" value="e: Слушатель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Exe_L5LcA4VAhJab5YQy-6" value="d: История пройденных курсов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Exe_L5LcA4VAhJab5YQy-9" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0.85;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="1">
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-9" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0.842;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.175;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="1" source="Exe_L5LcA4VAhJab5YQy-5" target="Exe_L5LcA4VAhJab5YQy-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="772" y="280.98" as="sourcePoint" />
             <mxPoint x="688" y="280.98" as="targetPoint" />
@@ -86,6 +86,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="550" as="sourcePoint" />
             <mxPoint x="590" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Exe_L5LcA4VAhJab5YQy-3" target="Exe_L5LcA4VAhJab5YQy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="350" as="sourcePoint" />
+            <mxPoint x="740" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-22" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="410" as="sourcePoint" />
+            <mxPoint x="360" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
