@@ -7,22 +7,28 @@
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-1" value="a: Пациент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="330" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxQvi_ueAJQSM3tB_UAR-2" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&lt;br/&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;: Сведения о врачах&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;style type=&quot;text/css&quot;&gt;td p { orphans: 0; widows: 0; background: transparent }p { line-height: 115%; margin-bottom: 0.1in; background: transparent }&lt;/style&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-2" value=": Сведения о врачах" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxQvi_ueAJQSM3tB_UAR-3" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&lt;br/&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;b: Врач&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;style type=&quot;text/css&quot;&gt;td p { orphans: 0; widows: 0; background: transparent }p { line-height: 115%; margin-bottom: 0.1in; background: transparent }&lt;/style&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-3" value="b: Врач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxQvi_ueAJQSM3tB_UAR-4" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&lt;br/&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;: Система&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;style type=&quot;text/css&quot;&gt;td p { orphans: 0; widows: 0; background: transparent }p { line-height: 115%; margin-bottom: 0.1in; background: transparent }&lt;/style&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-4" value=": Система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UxQvi_ueAJQSM3tB_UAR-5" value="&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&#x9;&lt;br/&gt;&lt;br/&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;: Расписание&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;style type=&quot;text/css&quot;&gt;td p { orphans: 0; widows: 0; background: transparent }p { line-height: 115%; margin-bottom: 0.1in; background: transparent }&lt;/style&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-5" value=": Расписание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxQvi_ueAJQSM3tB_UAR-2" target="UxQvi_ueAJQSM3tB_UAR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="500" as="sourcePoint" />
             <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UxQvi_ueAJQSM3tB_UAR-5" target="UxQvi_ueAJQSM3tB_UAR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
