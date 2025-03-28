@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="330" as="sourcePoint" />
-            <mxPoint x="340" y="330" as="targetPoint" />
+            <mxPoint x="190" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G6PU_WZym4Gf-ZEjerz6-10" value="выбратьВрача()" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="G6PU_WZym4Gf-ZEjerz6-9">
