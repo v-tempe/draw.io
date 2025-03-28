@@ -52,6 +52,11 @@
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AKE7zTqDp7WzXp7mgs42-1" value="&lt;div&gt;1. записьНа&lt;/div&gt;&lt;div&gt;Семинар()&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Exe_L5LcA4VAhJab5YQy-14">
+          <mxGeometry x="-0.0471" relative="1" as="geometry">
+            <mxPoint x="14" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Exe_L5LcA4VAhJab5YQy-15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Exe_L5LcA4VAhJab5YQy-5" target="Exe_L5LcA4VAhJab5YQy-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="330" as="sourcePoint" />
@@ -62,6 +67,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="635" y="320" as="sourcePoint" />
             <mxPoint x="580" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKE7zTqDp7WzXp7mgs42-2" value="&lt;div&gt;6. сообщениеРезультата&lt;/div&gt;&lt;div&gt;Записи(статус)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Exe_L5LcA4VAhJab5YQy-16">
+          <mxGeometry x="0.2065" y="-1" relative="1" as="geometry">
+            <mxPoint x="-11" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Exe_L5LcA4VAhJab5YQy-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Exe_L5LcA4VAhJab5YQy-5" target="Exe_L5LcA4VAhJab5YQy-6" edge="1">
