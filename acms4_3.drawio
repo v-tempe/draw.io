@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.1.1">
   <diagram name="Страница — 1" id="-aC2LgrRvAPeOgifP5qQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1506" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-1" value="a: Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-2" value=": Система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-3" value=": Расписание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-4" value=": Сведения о врачах" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G6PU_WZym4Gf-ZEjerz6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="490" as="sourcePoint" />
+            <mxPoint x="180" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
