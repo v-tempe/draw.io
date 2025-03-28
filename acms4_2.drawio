@@ -1,9 +1,34 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.1.1">
   <diagram name="Страница — 1" id="9jXeT3dvLRBq5KxPHS3_">
-    <mxGraphModel>
+    <mxGraphModel dx="1506" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-2" value="a: Студент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-3" value="b: Семинар курса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-4" value="c: Учебный курс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-5" value="e: Слушатель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-6" value="d: История пройденных курсов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Exe_L5LcA4VAhJab5YQy-9" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=0.85;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="772" y="280.98" as="sourcePoint" />
+            <mxPoint x="688" y="280.98" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="239" />
+              <mxPoint x="720" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
