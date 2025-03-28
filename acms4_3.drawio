@@ -114,7 +114,7 @@
             <mxPoint x="190" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G6PU_WZym4Gf-ZEjerz6-42" value="сообщениеОбУспешнойЗаписи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6PU_WZym4Gf-ZEjerz6-34">
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-42" value="сообщениеОбУспешнойЗаписи()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G6PU_WZym4Gf-ZEjerz6-34">
           <mxGeometry x="0.072" y="-2" relative="1" as="geometry">
             <mxPoint x="-22" y="-8" as="offset" />
           </mxGeometry>
