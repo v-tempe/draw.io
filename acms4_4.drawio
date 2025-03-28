@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-1" value="a: Пациент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="330" width="30" height="60" as="geometry" />
+          <mxGeometry x="510" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxQvi_ueAJQSM3tB_UAR-2" value=": Сведения о врачах" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
@@ -29,6 +29,28 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="240" as="sourcePoint" />
             <mxPoint x="520" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="280" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-15" value="1. выборВрача()" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="UxQvi_ueAJQSM3tB_UAR-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="280" as="sourcePoint" />
+            <mxPoint x="620" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxQvi_ueAJQSM3tB_UAR-17" value="&lt;div&gt;2. выборДня()&lt;/div&gt;&lt;div&gt;3. выборВремени()&lt;br&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="UxQvi_ueAJQSM3tB_UAR-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
