@@ -25,6 +25,44 @@
             <mxPoint x="180" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="340" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-10" value="выбратьВрача()" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="G6PU_WZym4Gf-ZEjerz6-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G6PU_WZym4Gf-ZEjerz6-8" target="G6PU_WZym4Gf-ZEjerz6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390.5" y="340" as="sourcePoint" />
+            <mxPoint x="390" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="G6PU_WZym4Gf-ZEjerz6-14" parent="1" target="G6PU_WZym4Gf-ZEjerz6-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740.5" y="440" as="sourcePoint" />
+            <mxPoint x="700" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6PU_WZym4Gf-ZEjerz6-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G6PU_WZym4Gf-ZEjerz6-13" target="G6PU_WZym4Gf-ZEjerz6-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="430" as="sourcePoint" />
+            <mxPoint x="710" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
