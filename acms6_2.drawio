@@ -105,14 +105,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="1315" />
-              <mxPoint x="380" y="820" />
-              <mxPoint x="110" y="820" />
+              <mxPoint x="380" y="740" />
+              <mxPoint x="110" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v269OwnzQNkkRuqbyP1P-25" value="&amp;nbsp;Такая запись&lt;div&gt;&amp;nbsp;уже есть&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v269OwnzQNkkRuqbyP1P-22">
+        <mxCell id="v269OwnzQNkkRuqbyP1P-25" value="&amp;nbsp;Такая запись&amp;nbsp;&lt;div&gt;&amp;nbsp;уже есть&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v269OwnzQNkkRuqbyP1P-22">
           <mxGeometry x="-0.7774" relative="1" as="geometry">
-            <mxPoint y="-76" as="offset" />
+            <mxPoint y="-87" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M7IDQv3rWQjjXNekp93g-33" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -176,11 +176,11 @@
         <mxCell id="M7IDQv3rWQjjXNekp93g-47" value="Отправить&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;в базу данных&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;новую запись&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=20.4;notch=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="1460" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oUJBNLu7hT6LgpA-EZTo-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=8;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="M7IDQv3rWQjjXNekp93g-48" target="M7IDQv3rWQjjXNekp93g-12" edge="1">
+        <mxCell id="v269OwnzQNkkRuqbyP1P-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="1" source="M7IDQv3rWQjjXNekp93g-48" target="M7IDQv3rWQjjXNekp93g-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M7IDQv3rWQjjXNekp93g-48" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Предоставить&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 0px; padding-left: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;пользователю&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;интерфейс для выбора&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;врача, даты и времени&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=31.6;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="685" width="165" height="60" as="geometry" />
+          <mxGeometry x="340" y="655" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M7IDQv3rWQjjXNekp93g-52" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Предоставить активные&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;записи на приём&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; для данного&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;пользователя&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=right;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=24;" parent="1" vertex="1">
           <mxGeometry x="320" y="560" width="170" height="50" as="geometry" />
