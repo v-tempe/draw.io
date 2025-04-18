@@ -40,7 +40,7 @@
             <mxPoint x="34" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-7" target="Q0dEOYpt1R8MO-l9zR0T-21">
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-7" target="Q0dEOYpt1R8MO-l9zR0T-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-25" value="Пользователю&lt;div&gt;не понравились&lt;div&gt;текущие варианты,&lt;/div&gt;&lt;div&gt;и он&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;решил&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;не записываться&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-24">
