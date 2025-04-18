@@ -35,9 +35,9 @@
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-7" target="Q0dEOYpt1R8MO-l9zR0T-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-19" value="Выбрано" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-16">
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-19" value="Пользователь&lt;div&gt;сделал выбор&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-16">
           <mxGeometry x="-0.2533" y="4" relative="1" as="geometry">
-            <mxPoint x="22" y="8" as="offset" />
+            <mxPoint x="34" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-7" target="Q0dEOYpt1R8MO-l9zR0T-21">
