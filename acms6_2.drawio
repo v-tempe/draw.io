@@ -120,7 +120,7 @@
         </mxCell>
         <mxCell id="v269OwnzQNkkRuqbyP1P-27" value="Отказ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v269OwnzQNkkRuqbyP1P-26">
           <mxGeometry x="-0.368" y="3" relative="1" as="geometry">
-            <mxPoint x="-8" y="-11" as="offset" />
+            <mxPoint x="-8" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v269OwnzQNkkRuqbyP1P-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="M7IDQv3rWQjjXNekp93g-1">
