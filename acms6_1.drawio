@@ -32,11 +32,14 @@
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-6" value="Авторизация в системе" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-7" target="Q0dEOYpt1R8MO-l9zR0T-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-7" value="Выбор врача,&lt;div&gt;даты и времени&lt;/div&gt;&lt;div&gt;для записи&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-8" value="Обновление информации&lt;div&gt;в базе данных&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
-          <mxGeometry x="550" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-10" target="Q0dEOYpt1R8MO-l9zR0T-7">
           <mxGeometry relative="1" as="geometry">
