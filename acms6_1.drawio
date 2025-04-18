@@ -69,10 +69,15 @@
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=8;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-8" target="Q0dEOYpt1R8MO-l9zR0T-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="690" />
-              <mxPoint x="160" y="310" />
+              <mxPoint x="140" y="690" />
+              <mxPoint x="140" y="310" />
               <mxPoint x="270" y="310" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-33" value="Запись&lt;div&gt;на приём&lt;div&gt;проведена&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-31">
+          <mxGeometry x="-0.5554" relative="1" as="geometry">
+            <mxPoint x="30" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-8" value="Обновление информации&lt;div&gt;в базе данных&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
