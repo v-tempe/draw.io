@@ -43,9 +43,9 @@
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-7" target="Q0dEOYpt1R8MO-l9zR0T-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-25" value="Пользователь&lt;div&gt;отказался&lt;/div&gt;&lt;div&gt;от записи&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-24">
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-25" value="Пользователю&lt;div&gt;не понравились&lt;div&gt;текущие варианты,&lt;/div&gt;&lt;div&gt;и он&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;решил&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;не записываться&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-24">
           <mxGeometry x="-0.2757" y="-4" relative="1" as="geometry">
-            <mxPoint x="13" y="-28" as="offset" />
+            <mxPoint x="23" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-7" value="Выбор врача,&lt;div&gt;даты и времени&lt;/div&gt;&lt;div&gt;для записи&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="475" width="30" height="30" as="geometry" />
+          <mxGeometry x="480" y="475" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
