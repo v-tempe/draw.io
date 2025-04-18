@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="30" height="30" as="geometry" />
+          <mxGeometry x="265" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="900" y="130" width="120" height="60" as="geometry" />
@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-7" value="Выбор врача,&lt;div&gt;даты и времени&lt;/div&gt;&lt;div&gt;для записи&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
-          <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-8" value="Обновление информации&lt;div&gt;в базе данных&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-10" value="Загрузка активных записей на приём пользователя" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
-          <mxGeometry x="220" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
