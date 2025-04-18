@@ -43,6 +43,9 @@
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-7" value="Выбор врача,&lt;div&gt;даты и времени&lt;/div&gt;&lt;div&gt;для записи&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=8;endArrow=open;endFill=0;" edge="1" parent="1" source="Q0dEOYpt1R8MO-l9zR0T-8" target="Q0dEOYpt1R8MO-l9zR0T-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-8" value="Обновление информации&lt;div&gt;в базе данных&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="220" y="580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -53,11 +56,14 @@
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-13" value="Данные&lt;div&gt;загружены&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0dEOYpt1R8MO-l9zR0T-12">
           <mxGeometry x="-0.2145" y="2" relative="1" as="geometry">
-            <mxPoint x="1" y="9" as="offset" />
+            <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0dEOYpt1R8MO-l9zR0T-10" value="Загрузка активных записей на приём пользователя" style="rounded=1;whiteSpace=wrap;html=1;arcSize=38;" vertex="1" parent="1">
           <mxGeometry x="220" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0dEOYpt1R8MO-l9zR0T-21" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="555" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
