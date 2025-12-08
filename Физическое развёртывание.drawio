@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dHto7cqB_aj97b0u57Lm-3" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
-          <mxGeometry height="230" width="760" x="30" y="150" as="geometry" />
+          <mxGeometry height="230" width="760" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="dHto7cqB_aj97b0u57Lm-4" parent="dHto7cqB_aj97b0u57Lm-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Локальная сеть" vertex="1">
           <mxGeometry height="30" width="100" x="20" as="geometry" />
