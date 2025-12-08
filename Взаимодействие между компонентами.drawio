@@ -47,8 +47,8 @@
         </mxCell>
         <mxCell id="8j4d55ZsdWStOtjrYFav-2" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;endSize=10;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="267.04" y="210" as="sourcePoint" />
-            <mxPoint x="450" y="210" as="targetPoint" />
+            <mxPoint x="267.04" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8j4d55ZsdWStOtjrYFav-3" connectable="0" parent="8j4d55ZsdWStOtjrYFav-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Запрос SPA" vertex="1">
@@ -69,8 +69,8 @@
         </mxCell>
         <mxCell id="8j4d55ZsdWStOtjrYFav-8" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;endSize=10;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="245" y="261" as="sourcePoint" />
-            <mxPoint x="70" y="260" as="targetPoint" />
+            <mxPoint x="245" y="271" as="sourcePoint" />
+            <mxPoint x="70" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8j4d55ZsdWStOtjrYFav-9" connectable="0" parent="8j4d55ZsdWStOtjrYFav-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Отрисовка SPA" vertex="1">
@@ -91,8 +91,8 @@
         </mxCell>
         <mxCell id="8j4d55ZsdWStOtjrYFav-13" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;entryX=-0.16;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;endSize=10;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="267.03999999999996" y="350" as="sourcePoint" />
-            <mxPoint x="446.03999999999996" y="351" as="targetPoint" />
+            <mxPoint x="267.03999999999996" y="360" as="sourcePoint" />
+            <mxPoint x="446.03999999999996" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8j4d55ZsdWStOtjrYFav-14" connectable="0" parent="8j4d55ZsdWStOtjrYFav-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Авторизация" vertex="1">
