@@ -150,6 +150,11 @@
             <mxPoint x="760" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qApkO5OfF_DoMqQcymng-24" connectable="0" parent="qApkO5OfF_DoMqQcymng-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Стандарты&lt;div&gt;качества&lt;/div&gt;&lt;div&gt;изделий&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.03" as="geometry">
+            <mxPoint x="-35" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
