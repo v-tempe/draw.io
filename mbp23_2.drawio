@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Страница-1" id="p8HFq4wjzgCf9dNs3EkY">
+    <mxGraphModel dx="1498" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g0XeoRhE09HDPjAq026d-6" edge="1" parent="1" source="g0XeoRhE09HDPjAq026d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g0XeoRhE09HDPjAq026d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-7" connectable="0" parent="g0XeoRhE09HDPjAq026d-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Подготовленные&lt;div&gt;материалы&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.424" y="2" as="geometry">
+            <mxPoint x="8" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Подготовить материалы" vertex="1">
+          <mxGeometry height="80" width="120" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-4" edge="1" parent="1" source="g0XeoRhE09HDPjAq026d-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="g0XeoRhE09HDPjAq026d-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-5" connectable="0" parent="g0XeoRhE09HDPjAq026d-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Обработанные&lt;div&gt;материалы&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.299" y="-2" as="geometry">
+            <mxPoint x="12" y="-54" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Выполнить обработку" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Собрать изделие" vertex="1">
+          <mxGeometry height="80" width="90" x="560" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="259.5" />
+              <mxPoint x="140" y="259.5" />
+            </Array>
+            <mxPoint x="40" y="259.5" as="sourcePoint" />
+            <mxPoint x="160" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-9" connectable="0" parent="g0XeoRhE09HDPjAq026d-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Чертежи" vertex="1">
+          <mxGeometry relative="1" x="-0.2071" y="-1" as="geometry">
+            <mxPoint x="-18" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="210" />
+              <mxPoint x="130" y="260" />
+            </Array>
+            <mxPoint x="40" y="210" as="sourcePoint" />
+            <mxPoint x="160" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-11" connectable="0" parent="g0XeoRhE09HDPjAq026d-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Оснастка" vertex="1">
+          <mxGeometry relative="1" x="-0.812" y="-1" as="geometry">
+            <mxPoint x="8" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-12" edge="1" parent="1" source="g0XeoRhE09HDPjAq026d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="509.5" as="sourcePoint" />
+            <mxPoint x="740" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-13" connectable="0" parent="g0XeoRhE09HDPjAq026d-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Изделие" vertex="1">
+          <mxGeometry relative="1" x="-0.32" y="-3" as="geometry">
+            <mxPoint x="6" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="419.5" y="540" />
+              <mxPoint x="419.5" y="480" />
+            </Array>
+            <mxPoint x="419.5" y="510" as="sourcePoint" />
+            <mxPoint x="419.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0XeoRhE09HDPjAq026d-15" connectable="0" parent="g0XeoRhE09HDPjAq026d-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Характеристики&lt;div&gt;используемых&lt;/div&gt;&lt;div&gt;материалов&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1326" y="-1" as="geometry">
+            <mxPoint x="-50" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
