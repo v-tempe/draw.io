@@ -4,6 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3ZfVHQam7iFun4VLwB5--80" edge="1" parent="1" source="3ZfVHQam7iFun4VLwB5--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" target="3ZfVHQam7iFun4VLwB5--4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="380" />
+              <mxPoint x="720" y="491" />
+            </Array>
+            <mxPoint x="750" y="391" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZfVHQam7iFun4VLwB5--81" connectable="0" parent="3ZfVHQam7iFun4VLwB5--80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Дом" vertex="1">
+          <mxGeometry relative="1" x="-0.6215" y="-1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Строительно-монтажные работы" vertex="1">
           <mxGeometry height="80" width="120" x="550" y="340" as="geometry" />
         </mxCell>
@@ -30,7 +44,7 @@
           <mxGeometry height="80" width="120" x="260" y="110" as="geometry" />
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Контроль и сдача объекта" vertex="1">
-          <mxGeometry height="80" width="110" x="660" y="440" as="geometry" />
+          <mxGeometry height="80" width="110" x="745" y="451" as="geometry" />
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--50" edge="1" parent="1" source="3ZfVHQam7iFun4VLwB5--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;">
           <mxGeometry relative="1" as="geometry">
@@ -62,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--24" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="Архив проектов" vertex="1">
-          <mxGeometry height="25" width="110" x="130" y="769.5" as="geometry" />
+          <mxGeometry height="25" width="110" x="130" y="766.5" as="geometry" />
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -78,14 +92,14 @@
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="756" as="sourcePoint" />
-            <mxPoint x="790" y="756" as="targetPoint" />
+            <mxPoint x="740" y="760" as="sourcePoint" />
+            <mxPoint x="880" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="796" as="sourcePoint" />
-            <mxPoint x="790" y="796" as="targetPoint" />
+            <mxPoint x="740" y="797" as="sourcePoint" />
+            <mxPoint x="880" y="797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
@@ -107,13 +121,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--37" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="Склад материалов" vertex="1">
-          <mxGeometry height="30" width="130" x="290" y="767" as="geometry" />
+          <mxGeometry height="30" width="130" x="290" y="766" as="geometry" />
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--38" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=14;" value="Архив финансовых документов" vertex="1">
           <mxGeometry height="40" width="170" x="525" y="130" as="geometry" />
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--39" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=14;" value="Документация объекта" vertex="1">
-          <mxGeometry height="30" width="160" x="640" y="763" as="geometry" />
+          <mxGeometry height="30" width="160" x="731" y="763.5" as="geometry" />
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--49" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Утвержденный&lt;div&gt;проект&lt;/div&gt;" vertex="1">
           <mxGeometry x="216" y="530" as="geometry">
@@ -181,7 +195,7 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="70" />
-              <mxPoint x="720" y="70" />
+              <mxPoint x="800" y="70" />
             </Array>
             <mxPoint x="230" y="150" as="sourcePoint" />
             <mxPoint x="430" y="320" as="targetPoint" />
@@ -190,11 +204,11 @@
         <mxCell id="3ZfVHQam7iFun4VLwB5--65" edge="1" parent="1" source="3ZfVHQam7iFun4VLwB5--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="480" />
-              <mxPoint x="820" y="480" />
+              <mxPoint x="900" y="491" />
+              <mxPoint x="900" y="491" />
             </Array>
-            <mxPoint x="820" y="540" as="sourcePoint" />
-            <mxPoint x="850" y="480" as="targetPoint" />
+            <mxPoint x="900" y="551" as="sourcePoint" />
+            <mxPoint x="930" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--66" connectable="0" parent="3ZfVHQam7iFun4VLwB5--65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Дом" vertex="1">
@@ -202,14 +216,14 @@
             <mxPoint x="-30" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--67" edge="1" parent="1" source="3ZfVHQam7iFun4VLwB5--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--67" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="380" />
-              <mxPoint x="710" y="380" />
+              <mxPoint x="790" y="391" />
+              <mxPoint x="790" y="391" />
             </Array>
-            <mxPoint x="730" y="380" as="sourcePoint" />
-            <mxPoint x="850" y="380" as="targetPoint" />
+            <mxPoint x="750" y="391" as="sourcePoint" />
+            <mxPoint x="930" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--68" connectable="0" parent="3ZfVHQam7iFun4VLwB5--67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Уведомления&lt;div&gt;о ходе работы&lt;/div&gt;" vertex="1">
@@ -228,16 +242,16 @@
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--70" connectable="0" parent="3ZfVHQam7iFun4VLwB5--69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Оплата&lt;div&gt;материалов&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.2431" as="geometry">
-            <mxPoint x="91" y="-21" as="offset" />
+            <mxPoint x="171" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--71" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="410" />
+              <mxPoint x="760" y="421" />
             </Array>
-            <mxPoint x="650" y="410" as="sourcePoint" />
-            <mxPoint x="850" y="410" as="targetPoint" />
+            <mxPoint x="730" y="421" as="sourcePoint" />
+            <mxPoint x="930" y="421" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--72" connectable="0" parent="3ZfVHQam7iFun4VLwB5--71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=14;" value="Оплата&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;специализированных&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;работ&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -247,8 +261,8 @@
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--74" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" target="3ZfVHQam7iFun4VLwB5--4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="714.5" y="755" as="sourcePoint" />
-            <mxPoint x="714.5" y="525" as="targetPoint" />
+            <mxPoint x="800" y="760" as="sourcePoint" />
+            <mxPoint x="794.5" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--75" connectable="0" parent="3ZfVHQam7iFun4VLwB5--74" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Документация&lt;div&gt;объекта&lt;/div&gt;" vertex="1">
