@@ -168,7 +168,7 @@
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--61" connectable="0" parent="3ZfVHQam7iFun4VLwB5--60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=14;" value="Разрешения&lt;div&gt;на строительство&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7095" as="geometry">
-            <mxPoint x="32" y="-16" as="offset" />
+            <mxPoint x="12" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3ZfVHQam7iFun4VLwB5--62" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;fontSize=14;" target="3ZfVHQam7iFun4VLwB5--5">
