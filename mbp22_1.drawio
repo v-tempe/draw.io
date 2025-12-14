@@ -4,103 +4,111 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3ZfVHQam7iFun4VLwB5--2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Строительно-монтажные работы" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Строительно-монтажные работы" vertex="1">
           <mxGeometry height="80" width="120" x="540" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Проектирование и оформление" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Проектирование и оформление" vertex="1">
           <mxGeometry height="80" width="120" x="260" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Контроль и сдача объекта" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Контроль и сдача объекта" vertex="1">
           <mxGeometry height="80" width="120" x="650" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Закупка материалов и организация" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Закупка материалов и организация" vertex="1">
           <mxGeometry height="80" width="120" x="340" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заказчик" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--41" edge="1" parent="1" source="3ZfVHQam7iFun4VLwB5--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="3ZfVHQam7iFun4VLwB5--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZfVHQam7iFun4VLwB5--42" connectable="0" parent="3ZfVHQam7iFun4VLwB5--41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Требования" vertex="1">
+          <mxGeometry relative="1" x="-0.1567" y="2" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZfVHQam7iFun4VLwB5--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Заказчик" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Надзорные органы" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Надзорные органы" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поставщики" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Поставщики" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Субподрядчики" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="Субподрядчики" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="600" as="sourcePoint" />
             <mxPoint x="420" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--24" parent="1" style="text;whiteSpace=wrap;" value="Архив проектов" vertex="1">
-          <mxGeometry height="25" width="90" x="310" y="568" as="geometry" />
+        <mxCell id="3ZfVHQam7iFun4VLwB5--24" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="Архив проектов" vertex="1">
+          <mxGeometry height="25" width="110" x="300" y="568" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="80" y="680" as="sourcePoint" />
             <mxPoint x="220" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="80" y="720" as="sourcePoint" />
             <mxPoint x="220" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="760" as="sourcePoint" />
             <mxPoint x="420" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="800" as="sourcePoint" />
             <mxPoint x="420" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="520" y="760" as="sourcePoint" />
             <mxPoint x="660" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="520" y="800" as="sourcePoint" />
             <mxPoint x="660" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="600" y="640" as="sourcePoint" />
             <mxPoint x="740" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="600" y="679" as="sourcePoint" />
             <mxPoint x="740" y="679" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--34" parent="1" style="text;whiteSpace=wrap;align=center;" value="База поставщиков&#xa;и подрядчиков" vertex="1">
-          <mxGeometry height="40" width="110" x="100" y="680" as="geometry" />
+        <mxCell id="3ZfVHQam7iFun4VLwB5--34" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=14;" value="База поставщиков&#xa;и подрядчиков" vertex="1">
+          <mxGeometry height="40" width="130" x="85" y="677" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="280" y="560" as="sourcePoint" />
             <mxPoint x="420" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--37" parent="1" style="text;whiteSpace=wrap;" value="Склад материалов" vertex="1">
-          <mxGeometry height="30" width="110" x="300" y="767" as="geometry" />
+        <mxCell id="3ZfVHQam7iFun4VLwB5--37" parent="1" style="text;whiteSpace=wrap;fontSize=14;" value="Склад материалов" vertex="1">
+          <mxGeometry height="30" width="130" x="290" y="767" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--38" parent="1" style="text;whiteSpace=wrap;align=center;" value="Архив финансовых документов" vertex="1">
-          <mxGeometry height="40" width="170" x="589" y="640" as="geometry" />
+        <mxCell id="3ZfVHQam7iFun4VLwB5--38" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=14;" value="Архив финансовых документов" vertex="1">
+          <mxGeometry height="40" width="170" x="589" y="637" as="geometry" />
         </mxCell>
-        <mxCell id="3ZfVHQam7iFun4VLwB5--39" parent="1" style="text;whiteSpace=wrap;align=center;" value="Документация объекта" vertex="1">
+        <mxCell id="3ZfVHQam7iFun4VLwB5--39" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=14;" value="Документация объекта" vertex="1">
           <mxGeometry height="30" width="160" x="510" y="767" as="geometry" />
         </mxCell>
       </root>
