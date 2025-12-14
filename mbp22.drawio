@@ -4,8 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6S_tDx6Tm_5U-oOUnWeb-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="300" />
+              <mxPoint x="680" y="150" />
+            </Array>
+            <mxPoint x="660" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6S_tDx6Tm_5U-oOUnWeb-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="300" />
+              <mxPoint x="680" y="250" />
+            </Array>
+            <mxPoint x="660" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6S_tDx6Tm_5U-oOUnWeb-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="300" />
+              <mxPoint x="680" y="350" />
+            </Array>
+            <mxPoint x="660" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6S_tDx6Tm_5U-oOUnWeb-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="300" />
+              <mxPoint x="680" y="450" />
+            </Array>
+            <mxPoint x="660" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Построить дом" vertex="1">
-          <mxGeometry height="320" width="330" x="300" y="140" as="geometry" />
+          <mxGeometry height="320" width="320" x="320" y="140" as="geometry" />
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-8" edge="1" parent="1" source="6S_tDx6Tm_5U-oOUnWeb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="6S_tDx6Tm_5U-oOUnWeb-2">
           <mxGeometry relative="1" as="geometry">
@@ -72,16 +108,16 @@
           <mxGeometry height="60" width="120" x="40" y="420" as="geometry" />
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заказчик" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="850" y="120" as="geometry" />
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Надзорные органы" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="850" y="220" as="geometry" />
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поставщики" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="320" as="geometry" />
+          <mxGeometry height="60" width="120" x="850" y="320" as="geometry" />
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Субподрядчики" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="420" as="geometry" />
+          <mxGeometry height="60" width="120" x="850" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
