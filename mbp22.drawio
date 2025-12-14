@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-19" connectable="0" parent="6S_tDx6Tm_5U-oOUnWeb-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Разрешения&lt;div&gt;на строительство&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7095" as="geometry">
-            <mxPoint x="32" y="-1" as="offset" />
+            <mxPoint x="32" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Надзорные органы" vertex="1">
@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-21" connectable="0" parent="6S_tDx6Tm_5U-oOUnWeb-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Работники для&lt;div&gt;специализированных работ&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.6097" y="-1" as="geometry">
-            <mxPoint x="20" y="-2" as="offset" />
+            <mxPoint x="20" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6S_tDx6Tm_5U-oOUnWeb-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Субподрядчики" vertex="1">
