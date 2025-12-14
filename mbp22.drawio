@@ -4,6 +4,75 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Построить дом" vertex="1">
+          <mxGeometry height="320" width="330" x="300" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-8" edge="1" parent="1" source="6S_tDx6Tm_5U-oOUnWeb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="6S_tDx6Tm_5U-oOUnWeb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="150" />
+              <mxPoint x="280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-10" connectable="0" parent="6S_tDx6Tm_5U-oOUnWeb-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Требования к дому" vertex="1">
+          <mxGeometry relative="1" x="-0.576" y="-3" as="geometry">
+            <mxPoint x="13" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заказчик" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-11" edge="1" parent="1" source="6S_tDx6Tm_5U-oOUnWeb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" target="6S_tDx6Tm_5U-oOUnWeb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="250" />
+              <mxPoint x="280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-19" connectable="0" parent="6S_tDx6Tm_5U-oOUnWeb-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Разрешения&lt;div&gt;на строительство&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7095" as="geometry">
+            <mxPoint x="32" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Надзорные органы" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-12" edge="1" parent="1" source="6S_tDx6Tm_5U-oOUnWeb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="6S_tDx6Tm_5U-oOUnWeb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="350" />
+              <mxPoint x="280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поставщики" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-14" edge="1" parent="1" source="6S_tDx6Tm_5U-oOUnWeb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="6S_tDx6Tm_5U-oOUnWeb-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="450" />
+              <mxPoint x="280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Субподрядчики" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заказчик" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Надзорные органы" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поставщики" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="6S_tDx6Tm_5U-oOUnWeb-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Субподрядчики" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
