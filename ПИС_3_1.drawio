@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Страница-1" id="8U0VeKaUOSWP9SbOYNPb">
+    <mxGraphModel dx="1033" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EiokKj2lWVdp_ztdjMIu-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="210" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EiokKj2lWVdp_ztdjMIu-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="260" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="EiokKj2lWVdp_ztdjMIu-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
+          <mxGeometry height="60" width="30" x="510" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="EiokKj2lWVdp_ztdjMIu-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
+          <mxGeometry height="60" width="30" x="570" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EiokKj2lWVdp_ztdjMIu-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="510" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
