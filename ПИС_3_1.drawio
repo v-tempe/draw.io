@@ -134,7 +134,7 @@
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-22" parent="EsRzhcTGjvGZvWYnjjJL-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Отображение статей и решений" vertex="1">
           <mxGeometry height="30" width="240" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="EsRzhcTGjvGZvWYnjjJL-23" parent="EsRzhcTGjvGZvWYnjjJL-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Отображение спец. символов, формул, графиков" vertex="1">
+        <mxCell id="EsRzhcTGjvGZvWYnjjJL-23" parent="EsRzhcTGjvGZvWYnjjJL-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Отображение спецсимволов, формул, графиков" vertex="1">
           <mxGeometry height="30" width="240" y="60" as="geometry" />
         </mxCell>
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-24" parent="EsRzhcTGjvGZvWYnjjJL-21" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Отображение гиперссылок и встраиваемого контента (видео и др.)" vertex="1">
