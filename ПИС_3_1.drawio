@@ -145,7 +145,7 @@
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-44" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
           <mxGeometry height="60" width="30" x="770" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="EsRzhcTGjvGZvWYnjjJL-61" edge="1" parent="1" source="EsRzhcTGjvGZvWYnjjJL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EsRzhcTGjvGZvWYnjjJL-8">
+        <mxCell id="EsRzhcTGjvGZvWYnjjJL-61" edge="1" parent="1" source="EsRzhcTGjvGZvWYnjjJL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="EsRzhcTGjvGZvWYnjjJL-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="120" />
