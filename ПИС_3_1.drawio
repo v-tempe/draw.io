@@ -10,15 +10,6 @@
         <mxCell id="EiokKj2lWVdp_ztdjMIu-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
           <mxGeometry height="60" width="30" x="445" y="535" as="geometry" />
         </mxCell>
-        <mxCell id="EiokKj2lWVdp_ztdjMIu-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
-          <mxGeometry height="60" width="30" x="735" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="EiokKj2lWVdp_ztdjMIu-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
-          <mxGeometry height="60" width="30" x="645" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="EiokKj2lWVdp_ztdjMIu-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
-          <mxGeometry height="60" width="30" x="555" y="960" as="geometry" />
-        </mxCell>
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fontSize=14;" value="Внешние системы" vertex="1">
           <mxGeometry height="60" width="400" x="-150" y="430" as="geometry" />
         </mxCell>
@@ -207,44 +198,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsRzhcTGjvGZvWYnjjJL-67" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
-          <mxGeometry height="60" width="30" x="435" y="950" as="geometry" />
-        </mxCell>
-        <mxCell id="EsRzhcTGjvGZvWYnjjJL-68" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
-          <mxGeometry height="60" width="30" x="345" y="950" as="geometry" />
-        </mxCell>
-        <mxCell id="EsRzhcTGjvGZvWYnjjJL-69" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
-          <mxGeometry height="60" width="30" x="255" y="950" as="geometry" />
-        </mxCell>
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-79" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
           <mxGeometry height="60" width="30" x="180" y="495" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
-          <mxGeometry height="60" width="30" x="392" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
-          <mxGeometry height="60" width="30" x="298" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
-          <mxGeometry height="60" width="30" x="692" y="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
-          <mxGeometry height="60" width="30" x="598" y="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
-          <mxGeometry height="60" width="30" x="740" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
-          <mxGeometry height="60" width="30" x="650" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
-          <mxGeometry height="60" width="30" x="560" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
-          <mxGeometry height="60" width="30" x="697" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="PUS5w4Hruy_bUePZcHnU-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
-          <mxGeometry height="60" width="30" x="603" y="240" as="geometry" />
         </mxCell>
         <mxCell id="PUS5w4Hruy_bUePZcHnU-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
@@ -290,6 +245,60 @@
         </mxCell>
         <mxCell id="PUS5w4Hruy_bUePZcHnU-47" edge="1" parent="1" source="EsRzhcTGjvGZvWYnjjJL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.063;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" target="PUS5w4Hruy_bUePZcHnU-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-56" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
+          <mxGeometry height="60" width="30" x="265" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-57" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
+          <mxGeometry height="60" width="30" x="355" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-58" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="265" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-59" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="342" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-60" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="415" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-61" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
+          <mxGeometry height="60" width="30" x="425" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-62" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
+          <mxGeometry height="60" width="30" x="560" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-63" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
+          <mxGeometry height="60" width="30" x="650" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-64" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="560" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-65" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="637" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-66" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="710" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-67" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-68" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
+          <mxGeometry height="60" width="30" x="580" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-69" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
+          <mxGeometry height="60" width="30" x="670" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-70" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="580" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-71" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="657" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-72" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-73" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
