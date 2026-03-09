@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Страница-1" id="8U0VeKaUOSWP9SbOYNPb">
-    <mxGraphModel dx="1248" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,18 @@
         </mxCell>
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-79" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
           <mxGeometry height="60" width="30" x="160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="412" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="318" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="712" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="PUS5w4Hruy_bUePZcHnU-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="618" y="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
