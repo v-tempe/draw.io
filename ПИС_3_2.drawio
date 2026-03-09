@@ -142,7 +142,7 @@
           <mxGeometry height="60" width="30" x="294.5" y="800" as="geometry" />
         </mxCell>
         <mxCell id="KwD4QojqL1eqS0KojDoC-51" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
-          <mxGeometry height="60" width="30" x="30" y="880" as="geometry" />
+          <mxGeometry height="60" width="30" x="35" y="880" as="geometry" />
         </mxCell>
         <mxCell id="KwD4QojqL1eqS0KojDoC-52" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
           <mxGeometry height="60" width="30" x="371.5" y="890" as="geometry" />
