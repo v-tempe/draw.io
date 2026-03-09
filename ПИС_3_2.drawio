@@ -111,21 +111,6 @@
         <mxCell id="KwD4QojqL1eqS0KojDoC-53" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
           <mxGeometry height="60" width="30" x="405" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="KwD4QojqL1eqS0KojDoC-56" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
-          <mxGeometry height="60" width="30" x="740" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="KwD4QojqL1eqS0KojDoC-57" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
-          <mxGeometry height="60" width="30" x="650" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="KwD4QojqL1eqS0KojDoC-58" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
-          <mxGeometry height="60" width="30" x="560" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="KwD4QojqL1eqS0KojDoC-59" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
-          <mxGeometry height="60" width="30" x="697" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="KwD4QojqL1eqS0KojDoC-60" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
-          <mxGeometry height="60" width="30" x="603" y="240" as="geometry" />
-        </mxCell>
         <mxCell id="KwD4QojqL1eqS0KojDoC-61" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -241,6 +226,24 @@
               <mxPoint x="390" y="885" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KwD4QojqL1eqS0KojDoC-96" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
+          <mxGeometry height="60" width="30" x="580" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KwD4QojqL1eqS0KojDoC-97" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
+          <mxGeometry height="60" width="30" x="670" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KwD4QojqL1eqS0KojDoC-98" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
+          <mxGeometry height="60" width="30" x="580" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KwD4QojqL1eqS0KojDoC-99" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Эксперт" vertex="1">
+          <mxGeometry height="60" width="30" x="657" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KwD4QojqL1eqS0KojDoC-100" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Администратор" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KwD4QojqL1eqS0KojDoC-101" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Гость" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
