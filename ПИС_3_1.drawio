@@ -43,14 +43,14 @@
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-6" parent="EsRzhcTGjvGZvWYnjjJL-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Обработка обращений" vertex="1">
           <mxGeometry height="30" width="160" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="EsRzhcTGjvGZvWYnjjJL-81" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="EsRzhcTGjvGZvWYnjjJL-81" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EsRzhcTGjvGZvWYnjjJL-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="340" />
-              <mxPoint x="330" y="340" />
+              <mxPoint x="330" y="650" />
+              <mxPoint x="330" y="650" />
             </Array>
             <mxPoint x="330" y="170" as="sourcePoint" />
-            <mxPoint x="330.4000000000001" y="823.3599999999999" as="targetPoint" />
+            <mxPoint x="330" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EsRzhcTGjvGZvWYnjjJL-8" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Работа с БД" vertex="1">
