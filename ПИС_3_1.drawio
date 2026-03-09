@@ -283,7 +283,7 @@
           <mxGeometry height="30" width="210" y="120" as="geometry" />
         </mxCell>
         <mxCell id="PUS5w4Hruy_bUePZcHnU-24" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Обучающийся" vertex="1">
-          <mxGeometry height="60" width="30" x="710" y="680" as="geometry" />
+          <mxGeometry height="60" width="30" x="700" y="680" as="geometry" />
         </mxCell>
         <mxCell id="PUS5w4Hruy_bUePZcHnU-25" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Преподаватель" vertex="1">
           <mxGeometry height="60" width="30" x="530" y="370" as="geometry" />
