@@ -254,7 +254,7 @@
           <mxGeometry height="30" width="200" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PUS5w4Hruy_bUePZcHnU-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Преподавание" vertex="1">
-          <mxGeometry height="150" width="140" x="660" y="600" as="geometry" />
+          <mxGeometry height="150" width="140" x="670" y="600" as="geometry" />
         </mxCell>
         <mxCell id="PUS5w4Hruy_bUePZcHnU-20" parent="PUS5w4Hruy_bUePZcHnU-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Создание класса" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
