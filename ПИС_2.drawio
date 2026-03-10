@@ -17,7 +17,7 @@
           <mxGeometry height="40" width="120" x="260" y="40" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Создание материалов для своего класса" vertex="1">
-          <mxGeometry height="70" width="140" x="430" y="440" as="geometry" />
+          <mxGeometry height="70" width="140" x="340" y="445" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Поиск контента по названию" vertex="1">
           <mxGeometry height="50" width="140" x="270" y="-30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry height="40" width="140" x="570" y="40" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Эксперт" vertex="1">
-          <mxGeometry height="60" width="30" x="715" y="350" as="geometry" />
+          <mxGeometry height="60" width="30" x="735" y="340" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Преподаватель" vertex="1">
           <mxGeometry height="60" width="30" x="470" y="340" as="geometry" />
@@ -47,19 +47,19 @@
           <mxGeometry height="70" width="140" x="870" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Use Case" vertex="1">
-          <mxGeometry height="70" width="140" x="870" y="-10" as="geometry" />
+          <mxGeometry height="70" width="140" x="970" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="urPIGOWpUdm4DlwW_Ep3-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Use Case" vertex="1">
-          <mxGeometry height="70" width="140" x="760" y="130" as="geometry" />
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Проверка работ учеников&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="550" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="urPIGOWpUdm4DlwW_Ep3-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Use Case" vertex="1">
-          <mxGeometry height="70" width="140" x="555" y="150" as="geometry" />
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Выставление&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;оценок&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ученикам&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="500" y="450" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотр&lt;div&gt;и выполнение&lt;/div&gt;&lt;div&gt;заданий учителя&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="140" x="20" y="350" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Создание класса" vertex="1">
-          <mxGeometry height="40" width="120" x="300" y="380" as="geometry" />
+          <mxGeometry height="40" width="120" x="300" y="360" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Модерация&lt;div&gt;контента&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="670" y="640" as="geometry" />
@@ -69,6 +69,72 @@
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Аутентификация" vertex="1">
           <mxGeometry height="40" width="120" x="285" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="865" y="150" as="sourcePoint" />
+            <mxPoint x="915" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="875" y="160" as="sourcePoint" />
+            <mxPoint x="925" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="885" y="170" as="sourcePoint" />
+            <mxPoint x="935" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="895" y="180" as="sourcePoint" />
+            <mxPoint x="945" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="905" y="190" as="sourcePoint" />
+            <mxPoint x="955" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="915" y="200" as="sourcePoint" />
+            <mxPoint x="965" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="925" y="210" as="sourcePoint" />
+            <mxPoint x="975" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-40" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="935" y="220" as="sourcePoint" />
+            <mxPoint x="985" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-41" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="945" y="230" as="sourcePoint" />
+            <mxPoint x="995" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="955" y="240" as="sourcePoint" />
+            <mxPoint x="1005" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urPIGOWpUdm4DlwW_Ep3-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="965" y="250" as="sourcePoint" />
+            <mxPoint x="1015" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
