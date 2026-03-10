@@ -11,7 +11,7 @@
           <mxGeometry height="60" width="140" x="415" y="-90" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Создание&lt;div&gt;контента&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="695" y="260" as="geometry" />
+          <mxGeometry height="50" width="120" x="690" y="260" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Регистрация" vertex="1">
           <mxGeometry height="40" width="120" x="260" y="40" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry height="40" width="120" x="300" y="360" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Модерация&lt;div&gt;контента&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="670" y="640" as="geometry" />
+          <mxGeometry height="50" width="120" x="690" y="630" as="geometry" />
         </mxCell>
         <mxCell id="urPIGOWpUdm4DlwW_Ep3-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Присоединение&lt;div&gt;к классу&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="60" y="280" as="geometry" />
