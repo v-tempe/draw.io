@@ -64,10 +64,14 @@
         <mxCell id="Ogvn3uVicLvbdsOlTNVi-23" parent="1" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" value="" vertex="1">
           <mxGeometry height="10" width="240" x="90" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="Ogvn3uVicLvbdsOlTNVi-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ogvn3uVicLvbdsOlTNVi-5" value="[Задача утверждена]">
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="Ogvn3uVicLvbdsOlTNVi-5" value="[Задача утверждена]">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="109" y="516" />
+              <mxPoint x="110" y="516" />
+            </Array>
             <mxPoint x="109.19999999999999" y="480" as="sourcePoint" />
-            <mxPoint x="109.19999999999999" y="550" as="targetPoint" />
+            <mxPoint x="160" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ogvn3uVicLvbdsOlTNVi-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ogvn3uVicLvbdsOlTNVi-26" value="[Задача отклонена]">
