@@ -1,9 +1,119 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Страница-1" id="pK1kilCBYaz7N1y8-1nd">
-    <mxGraphModel dx="1498" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-1" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="350" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-2" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-13" connectable="0" parent="Ogvn3uVicLvbdsOlTNVi-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Создана задача]" vertex="1">
+          <mxGeometry relative="1" x="-0.1587" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-4" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="225" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" value="Задача" vertex="1">
+          <mxGeometry height="90" width="180" x="60" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-6" parent="Ogvn3uVicLvbdsOlTNVi-5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="&lt;b&gt;/entry&lt;/b&gt; сохранить задачу в БД&lt;br&gt;&lt;b&gt;/entry&lt;/b&gt;&amp;nbsp;уведомить пользователя о статусе задачи" vertex="1">
+          <mxGeometry height="60" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-7" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-5" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ogvn3uVicLvbdsOlTNVi-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Задача утверждена&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="450" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-9" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-8" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="no">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-10" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-8" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="yes">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="500" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Заготовка для задачи&lt;div&gt;(без решения)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-12" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-11" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-17" connectable="0" parent="Ogvn3uVicLvbdsOlTNVi-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Добавлено авторское решение]" vertex="1">
+          <mxGeometry relative="1" x="-0.212" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Заготовка для задачи" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-15" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-14" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Activity" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-19" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-18" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-20" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" value="Заготовка для задачи" vertex="1">
+          <mxGeometry height="80" width="140" x="170" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-21" parent="Ogvn3uVicLvbdsOlTNVi-20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="&lt;b&gt;/exit&lt;/b&gt;&amp;nbsp;передать задачу на проверку администрации" vertex="1">
+          <mxGeometry height="50" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-22" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-20" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="Ogvn3uVicLvbdsOlTNVi-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-23" parent="1" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="10" width="240" x="120" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ogvn3uVicLvbdsOlTNVi-5" value="[Задача утверждена]">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.2" y="650" as="sourcePoint" />
+            <mxPoint x="149.2" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="[Задача отклонена]">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="670" />
+              <mxPoint x="330" y="670" />
+            </Array>
+            <mxPoint x="330" y="650" as="sourcePoint" />
+            <mxPoint x="330" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-26" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" value="Задача на доработке" vertex="1">
+          <mxGeometry height="70" width="160" x="420" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-27" parent="Ogvn3uVicLvbdsOlTNVi-26" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="&lt;b&gt;/entry&lt;/b&gt;&amp;nbsp;уведомить пользователя о статусе задачи" vertex="1">
+          <mxGeometry height="40" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ogvn3uVicLvbdsOlTNVi-28" edge="1" parent="1" source="Ogvn3uVicLvbdsOlTNVi-26" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
