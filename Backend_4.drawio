@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="XbpNu5U6bqvW7mo9JYFq">
-    <mxGraphModel dx="1486" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d_I-7hrXXHyeHS2PV22l-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Клиент&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="100" y="70" as="geometry" />
+          <mxGeometry height="60" width="30" x="70" y="70" as="geometry" />
         </mxCell>
         <mxCell id="d_I-7hrXXHyeHS2PV22l-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Обработчик WebSocket&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="80" as="geometry" />
@@ -14,13 +14,179 @@
           <mxGeometry height="60" width="120" x="340" y="80" as="geometry" />
         </mxCell>
         <mxCell id="d_I-7hrXXHyeHS2PV22l-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RoomRepository&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="530" y="80" as="geometry" />
+          <mxGeometry height="60" width="120" x="490" y="80" as="geometry" />
         </mxCell>
         <mxCell id="d_I-7hrXXHyeHS2PV22l-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MessageRepository&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="680" y="80" as="geometry" />
+          <mxGeometry height="60" width="140" x="640" y="80" as="geometry" />
         </mxCell>
         <mxCell id="d_I-7hrXXHyeHS2PV22l-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;База данных&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="860" y="80" as="geometry" />
+          <mxGeometry height="60" width="120" x="810" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="75" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-41" edge="1" parent="1" source="d_I-7hrXXHyeHS2PV22l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="d_I-7hrXXHyeHS2PV22l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="95" y="190" as="sourcePoint" />
+            <mxPoint x="240" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-14" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Отправить JSON&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;с запросом&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-10" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="390" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="540" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="700" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="20" x="860" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-21" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Вызвать&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 13px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;метод&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;execute()&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-9" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="250" as="sourcePoint" />
+            <mxPoint x="860" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-23" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Провести&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot;&gt;SQL-запрос&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;SELECT&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="540" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-25" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Вызвать&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 13px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;метод&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;is_member()&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-9" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="860" y="290" as="sourcePoint" />
+            <mxPoint x="560" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-27" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Вернуть результат запроса&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="9" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="330" as="sourcePoint" />
+            <mxPoint x="700" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-29" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Вызвать метод save()&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="350" as="sourcePoint" />
+            <mxPoint x="860" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-33" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Провести&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot;&gt;SQL-запрос&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot;&gt;INSERT&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-9" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="860" y="400" as="sourcePoint" />
+            <mxPoint x="720" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-35" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Вернуть&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;результат запроса&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="9" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="260" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-37" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Вернуть&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;объект Message&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="11" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="490" as="sourcePoint" />
+            <mxPoint x="95" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-39" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Отправить JSON&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;с результатами&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="-2" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.58" y="160" as="sourcePoint" />
+            <mxPoint x="399.58" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-43" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549.58" y="160" as="sourcePoint" />
+            <mxPoint x="549.58" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-44" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="709.5799999999999" y="160" as="sourcePoint" />
+            <mxPoint x="709.5799999999999" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-45" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="869.5799999999999" y="160" as="sourcePoint" />
+            <mxPoint x="869.5799999999999" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="700" y="430" as="sourcePoint" />
+            <mxPoint x="410" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-48" connectable="0" parent="d_I-7hrXXHyeHS2PV22l-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Создать и вернуть&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;объект Message&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1304" y="-4" as="geometry">
+            <mxPoint x="14" y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
