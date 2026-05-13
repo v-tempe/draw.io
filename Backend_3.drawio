@@ -83,7 +83,7 @@
         </mxCell>
         <mxCell id="JU-rbmONQTexaCJ6_XQ9-29" connectable="0" parent="JU-rbmONQTexaCJ6_XQ9-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;0..*&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.7523" y="-1" as="geometry">
-            <mxPoint x="-5" y="-17" as="offset" />
+            <mxPoint x="-5" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JU-rbmONQTexaCJ6_XQ9-30" edge="1" parent="1" source="JU-rbmONQTexaCJ6_XQ9-5" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" target="JU-rbmONQTexaCJ6_XQ9-9" value="">
