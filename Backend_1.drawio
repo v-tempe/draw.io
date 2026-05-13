@@ -4,8 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dnepGlAc-zteVL8J6fsW-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+        <mxCell id="dnepGlAc-zteVL8J6fsW-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Пользователь" vertex="1">
           <mxGeometry height="60" width="30" x="80" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Подключиться к чату" vertex="1">
+          <mxGeometry height="60" width="140" x="200" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Создать комнату" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Отправить сообщение" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Получить историю сообщений" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Присоединиться&lt;div&gt;к комнате&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Покинуть комнату" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-12" edge="1" parent="1" source="dnepGlAc-zteVL8J6fsW-1" style="endArrow=none;html=1;rounded=0;" target="WmDxRAO_hUI6_f6eKx6H-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-13" edge="1" parent="1" source="dnepGlAc-zteVL8J6fsW-1" style="endArrow=none;html=1;rounded=0;" target="WmDxRAO_hUI6_f6eKx6H-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-14" edge="1" parent="1" source="dnepGlAc-zteVL8J6fsW-1" style="endArrow=none;html=1;rounded=0;" target="WmDxRAO_hUI6_f6eKx6H-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-15" edge="1" parent="1" source="dnepGlAc-zteVL8J6fsW-1" style="endArrow=none;html=1;rounded=0;" target="WmDxRAO_hUI6_f6eKx6H-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-16" edge="1" parent="1" source="dnepGlAc-zteVL8J6fsW-1" style="endArrow=none;html=1;rounded=0;" target="WmDxRAO_hUI6_f6eKx6H-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmDxRAO_hUI6_f6eKx6H-17" edge="1" parent="1" source="dnepGlAc-zteVL8J6fsW-1" style="endArrow=none;html=1;rounded=0;" target="WmDxRAO_hUI6_f6eKx6H-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
