@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="XbpNu5U6bqvW7mo9JYFq">
-    <mxGraphModel>
+    <mxGraphModel dx="1486" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Клиент&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Обработчик WebSocket&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SendMessage UseCase&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RoomRepository&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MessageRepository&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d_I-7hrXXHyeHS2PV22l-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;База данных&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
