@@ -116,7 +116,7 @@
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-32" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Получен коммит из VCS&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="200" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="JJcdvd-WmdG3XFWxB4r1-33" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Прогон&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-33" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="40" y="390" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-53" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-36" source="JJcdvd-WmdG3XFWxB4r1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-32">
