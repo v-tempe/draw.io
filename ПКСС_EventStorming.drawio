@@ -8,7 +8,7 @@
           <mxGeometry height="470" width="510" x="30" y="10" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-37" parent="JJcdvd-WmdG3XFWxB4r1-35" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="20" y="270" as="geometry" />
+          <mxGeometry height="50" width="110" x="20" y="310" as="geometry" />
         </mxCell>
         <mxCell id="cImS4GbDX13RGIyKwYrC-6" parent="JJcdvd-WmdG3XFWxB4r1-35" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс удалён&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="360" y="310" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry height="60" width="120" x="190" y="220" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-127" parent="JJcdvd-WmdG3XFWxB4r1-35" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Проект&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="20" y="390" as="geometry" />
+          <mxGeometry height="50" width="110" x="20" y="225" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-36" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;КОНТЕКСТ&lt;/span&gt;&lt;div&gt;Запуск тест-кейсов&lt;/div&gt;" vertex="1">
           <mxGeometry height="470" width="1140" x="880" y="20" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry height="60" width="110" x="210" y="110" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-33" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="40" y="390" as="geometry" />
+          <mxGeometry height="50" width="110" x="30" y="320" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-53" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-36" source="JJcdvd-WmdG3XFWxB4r1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-32">
           <mxGeometry relative="1" as="geometry" />
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-121" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Запустить прогон&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="80" x="225" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-128" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Прогон&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="35" y="400" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-38" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;КОНТЕКСТ&lt;/span&gt;&lt;div&gt;Отчётность&lt;/div&gt;" vertex="1">
           <mxGeometry height="470" width="751" x="890" y="520" as="geometry" />
