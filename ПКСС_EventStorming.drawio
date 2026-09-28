@@ -40,9 +40,6 @@
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-23" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="1370" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="JJcdvd-WmdG3XFWxB4r1-24" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="1380" y="1160" as="geometry" />
-        </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-26" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="890" y="1160" as="geometry" />
         </mxCell>
@@ -191,13 +188,31 @@
           <mxGeometry height="470" width="751" x="890" y="520" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-40" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Отчёт&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="580" y="110" as="geometry" />
+          <mxGeometry height="50" width="110" x="45" y="380" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-1" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Отчёт о качестве сборки сформирован&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="130" x="156" y="105" as="geometry" />
+          <mxGeometry height="70" width="130" x="240" y="90" as="geometry" />
         </mxCell>
         <mxCell id="cImS4GbDX13RGIyKwYrC-5" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Метрики обновлены&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="440" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-85" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-38" source="JJcdvd-WmdG3XFWxB4r1-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-84" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;div&gt;ПОЛИТИКА&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;По завершении прогона&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;формируется отчёт&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="30" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-87" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-38" source="JJcdvd-WmdG3XFWxB4r1-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-86" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="45" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-88" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-38" source="JJcdvd-WmdG3XFWxB4r1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cImS4GbDX13RGIyKwYrC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-24" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Обновить метрики&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="230" y="240" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-39" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;КОНТЕКСТ&lt;/span&gt;&lt;div&gt;Управление дефектами&lt;/div&gt;" vertex="1">
           <mxGeometry height="470" width="751" x="49" y="520" as="geometry" />
