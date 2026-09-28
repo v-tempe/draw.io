@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="hpKYmHAt6kI86wDxWdeu">
+    <mxGraphModel dx="1238" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cImS4GbDX13RGIyKwYrC-3" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="70" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="cImS4GbDX13RGIyKwYrC-5" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="80" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="cImS4GbDX13RGIyKwYrC-6" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="90" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="cImS4GbDX13RGIyKwYrC-7" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="350" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cImS4GbDX13RGIyKwYrC-8" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс добавлен в набор&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="390" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cImS4GbDX13RGIyKwYrC-9" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="130" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
