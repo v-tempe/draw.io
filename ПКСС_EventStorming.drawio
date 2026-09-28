@@ -1,26 +1,122 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="hpKYmHAt6kI86wDxWdeu">
-    <mxGraphModel dx="1238" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cImS4GbDX13RGIyKwYrC-3" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="70" y="-140" as="geometry" />
+        <mxCell id="cImS4GbDX13RGIyKwYrC-5" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Метрики обновлены&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="1300" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="cImS4GbDX13RGIyKwYrC-5" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="80" y="-130" as="geometry" />
+        <mxCell id="cImS4GbDX13RGIyKwYrC-6" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс удалён&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="600" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="cImS4GbDX13RGIyKwYrC-6" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="90" y="-120" as="geometry" />
+        <mxCell id="cImS4GbDX13RGIyKwYrC-7" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="400" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="cImS4GbDX13RGIyKwYrC-7" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="350" y="60" as="geometry" />
+        <mxCell id="cImS4GbDX13RGIyKwYrC-8" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс добавлен в набор&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="380" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="cImS4GbDX13RGIyKwYrC-8" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Тест-кейс добавлен в набор&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="390" y="200" as="geometry" />
+        <mxCell id="cImS4GbDX13RGIyKwYrC-9" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="230" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="cImS4GbDX13RGIyKwYrC-9" parent="1" style="html=1;whiteSpace=wrap;" value="Событие&lt;div&gt;&lt;b&gt;Проект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="130" y="80" as="geometry" />
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-1" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Отчёт о качестве сборки сформирован&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="1080" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-2" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;div&gt;&lt;b&gt;Тест-кейс выполнен&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1240" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-3" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;div&gt;&lt;b&gt;Тест-кейс запущен&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="1030" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-4" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;div&gt;&lt;b&gt;Прогон тестов завершён&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-5" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;div&gt;&lt;b&gt;Прогон тестов запущен&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="950" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-6" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Дефект закрыт&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="2160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-7" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Предложено исправления для дефекта&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2080" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-8" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;div&gt;&lt;b&gt;Дефект взят в работу&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="1900" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-9" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Дефект назначен на разработчика&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="1720" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-10" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Дефект создан&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="1480" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-11" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-12" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="570" y="594" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-13" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="580" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-14" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="590" y="614" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-15" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="600" y="624" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-16" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="610" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-17" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="620" y="644" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-18" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Создать проект&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="100" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-19" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="630" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-20" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="640" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-21" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="650" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-22" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="660" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-23" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="670" y="694" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-24" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="680" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-25" parent="1" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="КОМАНДА&lt;div&gt;&lt;b&gt;Создать тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="310" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-26" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="130" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-27" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="140" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-28" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="150" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-29" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Name&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-30" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-31" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Администратор&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-32" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Коммит отправлен в VCS&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="880" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-33" parent="1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="900" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
