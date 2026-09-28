@@ -185,6 +185,14 @@
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-34" parent="JJcdvd-WmdG3XFWxB4r1-39" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Дефект&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="40" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-118" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-39" source="JJcdvd-WmdG3XFWxB4r1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="270" />
+              <mxPoint x="75" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-9" parent="JJcdvd-WmdG3XFWxB4r1-39" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Событие&lt;div&gt;&lt;b&gt;Дефект назначен на разработчика&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="360" y="190" as="geometry" />
         </mxCell>
