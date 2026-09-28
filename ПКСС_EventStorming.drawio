@@ -61,7 +61,7 @@
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-42" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-35" source="JJcdvd-WmdG3XFWxB4r1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJcdvd-WmdG3XFWxB4r1-31" parent="JJcdvd-WmdG3XFWxB4r1-35" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Администратор&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-31" parent="JJcdvd-WmdG3XFWxB4r1-35" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;QA-лид&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="30" y="50" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-109" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-35" source="JJcdvd-WmdG3XFWxB4r1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cImS4GbDX13RGIyKwYrC-6">
