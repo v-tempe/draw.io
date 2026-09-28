@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-120" parent="JJcdvd-WmdG3XFWxB4r1-36" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="40" y="205" as="geometry" />
+          <mxGeometry height="50" width="110" x="30" y="205" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-125" edge="1" parent="JJcdvd-WmdG3XFWxB4r1-36" source="JJcdvd-WmdG3XFWxB4r1-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JJcdvd-WmdG3XFWxB4r1-5">
           <mxGeometry relative="1" as="geometry" />
