@@ -195,7 +195,7 @@
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-111" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;" value="ГОРЯЧАЯ ТОЧКА&lt;div&gt;&lt;b&gt;Возможно ли обновление метрик в существующем отчёте?&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="180" x="280" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="JJcdvd-WmdG3XFWxB4r1-126" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;" value="ГОРЯЧАЯ ТОЧКА&lt;div&gt;&lt;b&gt;Возможно ли пересоздание отчёта?&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="JJcdvd-WmdG3XFWxB4r1-126" parent="JJcdvd-WmdG3XFWxB4r1-38" style="html=1;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;" value="ГОРЯЧАЯ ТОЧКА&lt;div&gt;&lt;b&gt;Ручное или автоматическое пересоздание отчёта?&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="530" y="340" as="geometry" />
         </mxCell>
         <mxCell id="JJcdvd-WmdG3XFWxB4r1-39" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;КОНТЕКСТ&lt;/span&gt;&lt;div&gt;Управление дефектами&lt;/div&gt;" vertex="1">
