@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="3TYioMcZKNwC6IVQUu3E">
+    <mxGraphModel dx="1238" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="Контекст &quot;Управление тест-кейсами&quot;" vertex="1">
+          <mxGeometry height="460" width="309" x="51" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-8" parent="c-tuYH5LwprpMBL3m8X2-1" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="29" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-9" parent="c-tuYH5LwprpMBL3m8X2-1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="39" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-10" parent="c-tuYH5LwprpMBL3m8X2-1" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;QA-лид&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="39" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-11" parent="c-tuYH5LwprpMBL3m8X2-1" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Проект&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="29" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="Контекст &quot;Запуск тест-кейсов&quot;" vertex="1">
+          <mxGeometry height="450" width="410" x="580" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-4" parent="c-tuYH5LwprpMBL3m8X2-2" style="html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ВНЕШНЯЯ СИСТЕМА&lt;div&gt;&lt;b&gt;Система контроля версий&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-5" parent="c-tuYH5LwprpMBL3m8X2-2" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="100" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-6" parent="c-tuYH5LwprpMBL3m8X2-2" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Прогон&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="105" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-7" parent="c-tuYH5LwprpMBL3m8X2-2" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="230" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="Контекст &quot;Управление тест-кейсами&quot;" vertex="1">
+          <mxGeometry height="460" width="309" x="1130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-13" parent="c-tuYH5LwprpMBL3m8X2-12" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="29" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-14" parent="c-tuYH5LwprpMBL3m8X2-12" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="39" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-15" parent="c-tuYH5LwprpMBL3m8X2-12" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;QA-лид&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="39" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-16" parent="c-tuYH5LwprpMBL3m8X2-12" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Проект&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="29" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="Контекст &quot;Управление тест-кейсами&quot;" vertex="1">
+          <mxGeometry height="460" width="309" x="1530" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-18" parent="c-tuYH5LwprpMBL3m8X2-17" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Тест-кейс&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="29" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-19" parent="c-tuYH5LwprpMBL3m8X2-17" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;Тестировщик&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="39" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-20" parent="c-tuYH5LwprpMBL3m8X2-17" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="Участник&lt;div&gt;&lt;b&gt;QA-лид&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="39" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="c-tuYH5LwprpMBL3m8X2-21" parent="c-tuYH5LwprpMBL3m8X2-17" style="html=1;whiteSpace=wrap;fillColor=#ffff88;strokeColor=#36393d;" value="Агрегат&lt;div&gt;&lt;b&gt;Проект&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="29" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
