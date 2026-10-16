@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="3_haKS3OdJfQxmmi6ds7">
+    <mxGraphModel dx="1372" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-1" parent="1" style="swimlane;startSize=0;fontSize=14;" value="&#xa;Система городского велопроката" vertex="1">
+          <mxGeometry height="630" width="570" x="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-8" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Создать проект" vertex="1">
+          <mxGeometry height="70" width="140" x="20" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-2" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Удалить тест‑кейс" vertex="1">
+          <mxGeometry height="70" width="140" x="180" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-9" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Use Case" vertex="1">
+          <mxGeometry height="70" width="140" x="390" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-10" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Получить отчёт о тестировании" vertex="1">
+          <mxGeometry height="70" width="140" x="310" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-11" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Закрыть дефект" vertex="1">
+          <mxGeometry height="70" width="140" x="170" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-12" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Предложить исправление для дефекта" vertex="1">
+          <mxGeometry height="70" width="140" x="10" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-13" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Взять дефект в работу" vertex="1">
+          <mxGeometry height="70" width="140" x="10" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-15" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Запустить&lt;div&gt;тестовый прогон&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="20" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-16" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Добавить тест‑кейс в набор" vertex="1">
+          <mxGeometry height="70" width="140" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-17" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Создать тест‑кейс" vertex="1">
+          <mxGeometry height="70" width="140" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-14" parent="ScIb3btyj1r-ERAhOtrB-1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" value="Зафиксировать дефект" vertex="1">
+          <mxGeometry height="70" width="140" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Тестировщик" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="Разработчик" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=14;" value="QA-лид" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-19" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-8" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-20" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-3" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="362.5" as="sourcePoint" />
+            <mxPoint x="798" y="467.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-22" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-3" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="630" as="sourcePoint" />
+            <mxPoint x="708" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-23" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-3" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="630" as="sourcePoint" />
+            <mxPoint x="130" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-24" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-13" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="410" as="sourcePoint" />
+            <mxPoint x="750" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-25" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-3" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="630" as="sourcePoint" />
+            <mxPoint x="888" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-29" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-5" style="endArrow=open;dashed=1;html=1;rounded=0;dashPattern=8 8;endFill=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="360" as="sourcePoint" />
+            <mxPoint x="150" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-30" connectable="0" parent="ScIb3btyj1r-ERAhOtrB-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="&amp;lt;extend&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2775" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="970" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="970" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=14;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="970" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-34" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-10" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="970" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-35" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-11" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="970" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-36" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-14" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="970" y="360" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-21" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-4" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="838" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
