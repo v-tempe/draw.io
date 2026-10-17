@@ -103,15 +103,10 @@
             <mxPoint x="888" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ScIb3btyj1r-ERAhOtrB-29" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-5" style="endArrow=open;dashed=1;html=1;rounded=0;dashPattern=8 8;endFill=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-3" value="">
+        <mxCell id="ScIb3btyj1r-ERAhOtrB-29" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-5" style="endArrow=block;html=1;rounded=0;endFill=0;fontSize=14;endSize=10;" target="ScIb3btyj1r-ERAhOtrB-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="530" y="360" as="sourcePoint" />
             <mxPoint x="150" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ScIb3btyj1r-ERAhOtrB-30" connectable="0" parent="ScIb3btyj1r-ERAhOtrB-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="&amp;lt;extend&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.2775" y="-3" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ScIb3btyj1r-ERAhOtrB-34" edge="1" parent="1" source="ScIb3btyj1r-ERAhOtrB-10" style="endArrow=none;html=1;rounded=0;fontSize=14;" target="ScIb3btyj1r-ERAhOtrB-3" value="">
