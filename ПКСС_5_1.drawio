@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="b2u5SO0DXPF09h85c4IB">
+    <mxGraphModel dx="1143" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OAybwjkhoaBQ1OQ34Rl8-3" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EDD779;shape=mxgraph.archimate4.element;appType=passive;archiType=square;archiDomain=business;" value="Тест-кейс" vertex="1">
+          <mxGeometry height="75" width="150" x="90" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OAybwjkhoaBQ1OQ34Rl8-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EDD779;shape=mxgraph.archimate4.element;appType=passive;archiType=square;archiDomain=business;" value="Business Object" vertex="1">
+          <mxGeometry height="75" width="150" x="630" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="OAybwjkhoaBQ1OQ34Rl8-5" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EDD779;shape=mxgraph.archimate4.element;appType=passive;archiType=square;archiDomain=business;" value="Business Object" vertex="1">
+          <mxGeometry height="75" width="150" x="630" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="OAybwjkhoaBQ1OQ34Rl8-6" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EDD779;shape=mxgraph.archimate4.element;appType=passive;archiType=square;archiDomain=business;" value="Business Object" vertex="1">
+          <mxGeometry height="75" width="150" x="630" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="OAybwjkhoaBQ1OQ34Rl8-7" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EDD779;shape=mxgraph.archimate4.element;appType=passive;archiType=square;archiDomain=business;" value="Дефект" vertex="1">
+          <mxGeometry height="75" width="150" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="OAybwjkhoaBQ1OQ34Rl8-8" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EDD779;shape=mxgraph.archimate4.element;appType=passive;archiType=square;archiDomain=business;" value="Прогон" vertex="1">
+          <mxGeometry height="75" width="150" x="360" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
